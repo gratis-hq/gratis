@@ -1,6 +1,8 @@
 <hr />
 <div align="center" style="font-size: 72px; vertical-align: center;">
     <img src="images/logo.gratis.png" alt="Logo" width='200px' height='auto'/>
+</div>
+<div align="center" style="font-size: 72px; vertical-align: center;">
     Gratis
 </div>
 <hr />
