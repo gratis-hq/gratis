@@ -2,9 +2,9 @@
 <div align="center" style="font-size: 72px; vertical-align: center;">
     <img src="images/logo.gratis.png" alt="Logo" width='200px' height='auto'/>
 </div>
-<div align="center" style="font-size: 72px; vertical-align: center;">
+<h1 align="center">
     Gratis
-</div>
+</h1>
 <hr />
 
 [![Live Artifacts](https://github.com/nanocurrency/nano-node/workflows/Live/badge.svg)](https://github.com/nanocurrency/nano-node/actions?query=workflow%3ALive)
